@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkangular_split_app=self.webpackChunkangular_split_app||[]).push([[444],{3444:(p,s,l)=>{l.r(s),l.d(s,{ExamplesModule:()=>a});var n=l(1387),o=l(6042),u=l(1571);class a{}a.\u0275fac=function(_){return new(_||a)},a.\u0275mod=u.oAB({type:a}),a.\u0275inj=u.cJS({imports:[n.Bz.forChild([...o.y])]})}}]);
