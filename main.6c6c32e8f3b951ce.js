@@ -1977,25 +1977,9 @@ _class2.ɵfac = function _class2_Factory(t) {
     }]
   });
 })();
-class AngularSplitModule {
-  static forRoot() {
-    console.warn(`AngularSplitModule.forRoot() is deprecated and will be removed in v6`);
-    return {
-      ngModule: AngularSplitModule,
-      providers: []
-    };
-  }
-  static forChild() {
-    console.warn(`AngularSplitModule.forChild() is deprecated and will be removed in v6`);
-    return {
-      ngModule: AngularSplitModule,
-      providers: []
-    };
-  }
-  /** @nocollapse */
-}
+class AngularSplitModule {}
 _class3 = AngularSplitModule;
-_class3.ɵfac = function _class3_Factory(t) {
+/** @nocollapse */_class3.ɵfac = function _class3_Factory(t) {
   return new (t || _class3)();
 };
 /** @nocollapse */_class3.ɵmod = /* @__PURE__ */_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineNgModule"]({
@@ -2037,4 +2021,4 @@ _class3.ɵfac = function _class3_Factory(t) {
 /******/ var __webpack_exports__ = __webpack_require__.O();
 /******/ }
 ]);
-//# sourceMappingURL=main.15895e9a4fde2cdb.js.map
+//# sourceMappingURL=main.6c6c32e8f3b951ce.js.map
